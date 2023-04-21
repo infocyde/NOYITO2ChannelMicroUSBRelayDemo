@@ -2,7 +2,7 @@
 Some demo code on how to interact with a NOYITO 2-Channel Micro USB Relay Module
 
 This is a windows console app written in .net 4.6.1 that demonstrates how to turn on/off each relay side of a NOYITO 2-Channel Micro USB Relay Module.
-The guts are in the USBPowerSwitch.cs class.  You pretty much instaiate the class which will auto detect what com port your power switch is hooked up to,
+The guts are in the USBPowerSwitch.cs class.  You pretty much instantiate the class which will auto detect what com port your power switch is hooked up to,
 and then there are four commands you can issue to it.
 
 Demo on how it works in Program.cs. 
